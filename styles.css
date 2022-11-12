@@ -449,7 +449,7 @@ p {
   }
   .home-bg{
     height: calc(100vh - 120px);
-    background: url('images/bg1.jpg');
+    background: url('images/');
   }
   .home-img {
     width: 65%;
