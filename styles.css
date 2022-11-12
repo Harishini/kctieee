@@ -489,7 +489,7 @@ p {
   }
   .home-bg{
     height: calc(100vh - 110px);
-    background-image: url('images/bg1.jpg');
+    background-image: url('images/');
   }
   .about {
     display: flex;
