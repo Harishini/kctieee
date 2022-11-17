@@ -248,7 +248,8 @@ p {
 }
 .gallery img{
   width:50%;
-  height:auto;
+  border-radius: 50%;
+  height:50%;
 }
 .faculty-img {
   width: 85%;
